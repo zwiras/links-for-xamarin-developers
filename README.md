@@ -4,6 +4,7 @@ Best websites for xamarin developers
 ## Contents
 * [Controls](#controls)
   * [Carousel View](#carousel-view)
+  * [CheckBox](#checkbox)
   * [DatePicker](#datepicker)
   * [ListView](#listview)
 * [Productivity](#productivity)
@@ -12,6 +13,8 @@ Best websites for xamarin developers
 ## Controls
 ### Carousel View
 * [Carousel View [Xamarin.Forms]](https://chrisriesgo.com/xamarin-forms-carousel-view-recipe/) - Xamarin.Forms Carousel View Recipe
+### CheckBox
+* [Non-Native CheckBox [Xamarin.Forms]](http://intellectualponderings.blogspot.com/2014/12/xamarin-forms-non-native-checkbox.html) - Non-Native CheckBox for Xamarin.Forms
 ### Datepicker
 * [Nullable datepicker [Xamarin.Forms]](https://forums.xamarin.com/discussion/20028/datepicker-possible-to-bind-to-nullable-date-value)
 * [More friendly Xamarin Forms DatePicker [Xamarin.Forms]](https://damian.fyi/2017/01/24/friendly-xamarin-forms-datepicker/) - Datepicker that shows “yesterday”, “today” etc.
