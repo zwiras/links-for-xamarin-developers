@@ -4,6 +4,7 @@ Best websites for xamarin developers
 ## Contents
 * [Controls](#controls)
   * [Carousel View](#carousel-view)
+  * [DatePicker](#datepicker)
   * [ListView](#listview)
 * [Productivity](#productivity)
 * [Real-Time Communication](#real-time-communication)
@@ -11,6 +12,9 @@ Best websites for xamarin developers
 ## Controls
 ### Carousel View
 * [Carousel View [Xamarin.Forms]](https://chrisriesgo.com/xamarin-forms-carousel-view-recipe/) - Xamarin.Forms Carousel View Recipe
+### Datepicker
+* [Nullable datepicker [Xamarin.Forms]](https://forums.xamarin.com/discussion/20028/datepicker-possible-to-bind-to-nullable-date-value)
+* [More friendly Xamarin Forms DatePicker [Xamarin.Forms]](https://damian.fyi/2017/01/24/friendly-xamarin-forms-datepicker/) - Datepicker that shows “yesterday”, “today” etc.
 ### ListView
 * [ListView Height Change Dynamically [Xamarin.Forms]](https://xamarinsharp.com/2017/05/20/xamarin-forms-listview-height-change-dynamically-using-mvvm-and-also-solve-empty-space-issue/) - Xamarin Forms: ListView Height Change Dynamically, using MVVM and also, Solve Empty Space issue
 ## Productivity
