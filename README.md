@@ -49,6 +49,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Productivity
 * [Automatic versions xamarin app [PL]](https://www.dobreprogramy.pl/djfoxer/Automatyczne-wersjonowanie-aplikacji-mobilnych-Android-i-iOS-w-Xamarin,85853.html) - Automatic versioning of Android and iOS mobile applications in Xamarin
+* [Performance Tips](https://kent-boogaart.com/blog/jason-smith's-xamarin-forms-performance-tips) - Jason Smith's Xamarin Forms Performance Tips
 * [MFractor](https://xamgirl.com/xamarin-developer-with-superporwers-using-mfractor/) - Xamarin developer with super powers using MFractor
  * [Universal Styling [Xamarin.Forms]](https://xamgirl.com/universal-styling-in-xamarin-form-apps/) - Universal Styling in Xamarin Form Apps
 * [XAML Tricks](https://xamgirl.com/xaml-tips-and-tricks/) - XAML – Tips and Tricks
