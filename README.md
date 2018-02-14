@@ -16,6 +16,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
   * [Grid](#grid) 
   * [ListView](#listview)
   * [Navigation Bar](#navigation-bar)
+  * [Switch](#switch)
 * [Media](#media)
 * [Multilingualism](#multilingualism)
 * [Productivity](#productivity)
@@ -23,8 +24,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Animations
 * [Lottie Animations [Xamarin.Forms]](https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/) - https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/
+
 ## Components
+* [Popup Page Plugin [Xamarin.Forms]](https://github.com/rotorgames/Rg.Plugins.Popup) - Rg.Plugins.Popup is a cross platform plugin for Xamarin.Forms which allows to open Xamarin.Forms pages as a popup that can be shared across iOS, Android and UWP. Also the plugin allows to use very simple and flexible animations for showing popup pages
 * [SlideOverKit [Xamarin.Forms]](http://www.xam-consulting.com/slideoverkit-xamarin-forms/) - SlideOverKit is a (Free and OpenSource) component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms
+
 ## Controls
 ### Carousel View
 * [Carousel View [Xamarin.Forms]](https://chrisriesgo.com/xamarin-forms-carousel-view-recipe/) - Xamarin.Forms Carousel View Recipe
@@ -43,7 +47,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [ListView Height Change Dynamically [Xamarin.Forms]](https://xamarinsharp.com/2017/05/20/xamarin-forms-listview-height-change-dynamically-using-mvvm-and-also-solve-empty-space-issue/) - Xamarin Forms: ListView Height Change Dynamically, using MVVM and also, Solve Empty Space issue
 ### Navigation Bar
 * [Navigation Bar with Shadow [Xamarin.Forms]](https://xamgirl.com/navigation-bar-with-shadow-in-xamarin-forms/) - Navigation Bar with Shadow in Xamarin Forms
-
+### Switch
+* [Custom Switch Button [Xamarin.Forms]](https://xamarinskills.blogspot.com/2018/01/xamarinforms-custom-switch-button.html) 
+* [Custom TextOn, TextOff for Switch [Xamarin.Forms]](https://forums.xamarin.com/discussion/30526/custom-texton-textoff-for-switch-possible-to-override-or-support-on-roadmap)
 ## Media
 * [Select images from gallery](https://xamgirl.com/select-multiple-images-from-gallery-in-xamarin-forms/) - Select Multiple Images From Gallery in Xamarin Forms
 
