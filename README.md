@@ -1,5 +1,9 @@
 # Links for Xamarin Developers
-Best websites for xamarin developers
+Collection of useful links for xamarin developers
+
+Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
+
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/zwiras/links-for-xamarin-developers/blob/master/contributing.md) pages first. We accept proprietary and commercial software too.
 
 ## Contents
 * [Animations](#animations)
