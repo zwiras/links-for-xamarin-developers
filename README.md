@@ -1,4 +1,4 @@
-# Links for Xamarin Developers
+# Useful links for Xamarin Developers
 Collection of useful links for xamarin developers
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
