@@ -7,7 +7,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Contents
 * [Animations](#animations)
-* [Components](#components)
+* [Components & Plugins](#components-&-plugins)
 * [Controls](#controls)  
   * [Carousel View](#carousel-view)
   * [CheckBox](#checkbox)
@@ -25,7 +25,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Animations
 * [Lottie Animations [Xamarin.Forms]](https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/) - https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/
 
-## Components
+## Components & Plugins
+* [ConnectivityPlugin](https://github.com/jamesmontemagno/ConnectivityPlugin) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more
+* [EntryCustomReturnPlugin](https://github.com/brminnick/EntryCustomReturnPlugin [Xamarin.Forms]) - Xamarin.Forms Plugin to customize the Xamarin.Forms.Entry Keyboard Return Button 
 * [Popup Page Plugin [Xamarin.Forms]](https://github.com/rotorgames/Rg.Plugins.Popup) - Rg.Plugins.Popup is a cross platform plugin for Xamarin.Forms which allows to open Xamarin.Forms pages as a popup that can be shared across iOS, Android and UWP. Also the plugin allows to use very simple and flexible animations for showing popup pages
 * [SlideOverKit [Xamarin.Forms]](http://www.xam-consulting.com/slideoverkit-xamarin-forms/) - SlideOverKit is a (Free and OpenSource) component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms
 
