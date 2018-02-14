@@ -7,6 +7,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Contents
 * [Animations](#animations)
+* [Components](#components)
 * [Controls](#controls)  
   * [Carousel View](#carousel-view)
   * [CheckBox](#checkbox)
@@ -22,6 +23,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Animations
 * [Lottie Animations [Xamarin.Forms]](https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/) - https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/
+## Components
+* [SlideOverKit [Xamarin.Forms]](http://www.xam-consulting.com/slideoverkit-xamarin-forms/) - SlideOverKit is a (Free and OpenSource) component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms
 ## Controls
 ### Carousel View
 * [Carousel View [Xamarin.Forms]](https://chrisriesgo.com/xamarin-forms-carousel-view-recipe/) - Xamarin.Forms Carousel View Recipe
