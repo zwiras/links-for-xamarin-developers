@@ -7,7 +7,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Contents
 * [Animations](#animations)
-* [Components & Plugins](#components-&-plugins)
+* [Components & Plugins](#components-and-plugins)
 * [Controls](#controls)  
   * [Carousel View](#carousel-view)
   * [CheckBox](#checkbox)
@@ -25,12 +25,15 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Animations
 * [Lottie Animations [Xamarin.Forms]](https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/) - https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/
 
-## Components & Plugins
+## Components and Plugins
+* [AppIntro](https://github.com/JonDouglas/AppIntro) - AppIntro is an Android Library that helps you make a cool intro for your app, like the ones in Google apps
+* [Circle Buttons [Xamarin.Forms]](https://github.com/wilsonvargas/ButtonCirclePlugin) - Simple but elegant way of display circle buttons with an icon in your Xamarin.Forms projects
 * [ConnectivityPlugin](https://github.com/jamesmontemagno/ConnectivityPlugin) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more
-* [EntryCustomReturnPlugin](https://github.com/brminnick/EntryCustomReturnPlugin [Xamarin.Forms]) - Xamarin.Forms Plugin to customize the Xamarin.Forms.Entry Keyboard Return Button 
+* [EntryCustomReturnPlugin [Xamarin.Forms]](https://github.com/brminnick/EntryCustomReturnPlugin) - Xamarin.Forms Plugin to customize the Xamarin.Forms.Entry Keyboard Return Button 
+* [FoldingCell](https://github.com/Ramotion/folding-cell-android) - FoldingCell is a material design expanding content cell inspired by folding paper material made by @Ramotion 
 * [Popup Page Plugin [Xamarin.Forms]](https://github.com/rotorgames/Rg.Plugins.Popup) - Rg.Plugins.Popup is a cross platform plugin for Xamarin.Forms which allows to open Xamarin.Forms pages as a popup that can be shared across iOS, Android and UWP. Also the plugin allows to use very simple and flexible animations for showing popup pages
 * [SlideOverKit [Xamarin.Forms]](http://www.xam-consulting.com/slideoverkit-xamarin-forms/) - SlideOverKit is a (Free and OpenSource) component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms
-
+* [xfgloss [Xamarin.Forms]](https://github.com/tbaggett/xfgloss) - XFGloss adds new properties to the Xamarin.Forms standard UI components on the Android and iOS platforms. It uses attached properties and enhanced platform-specific renderers to work its magic.
 ## Controls
 ### Carousel View
 * [Carousel View [Xamarin.Forms]](https://chrisriesgo.com/xamarin-forms-carousel-view-recipe/) - Xamarin.Forms Carousel View Recipe
@@ -63,6 +66,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Performance Tips](https://kent-boogaart.com/blog/jason-smith's-xamarin-forms-performance-tips) - Jason Smith's Xamarin Forms Performance Tips
 * [MFractor](https://xamgirl.com/xamarin-developer-with-superporwers-using-mfractor/) - Xamarin developer with super powers using MFractor
  * [Universal Styling [Xamarin.Forms]](https://xamgirl.com/universal-styling-in-xamarin-form-apps/) - Universal Styling in Xamarin Form Apps
+* [Xamarin Forms Samples](https://github.com/xamarin/xamarin-forms-samples) - Sample apps built using the Xamarin.Forms framework
 * [XAML Tricks](https://xamgirl.com/xaml-tips-and-tricks/) - XAML – Tips and Tricks
 
 ## Real-Time Communication
