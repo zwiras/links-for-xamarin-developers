@@ -16,6 +16,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
   * [Grid](#grid) 
   * [ListView](#listview)
   * [Navigation Bar](#navigation-bar)
+  * [Picker](#picker)
   * [Switch](#switch)
 * [Media](#media)
 * [Multilingualism](#multilingualism)
@@ -52,6 +53,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [ListView Height Change Dynamically [Xamarin.Forms]](https://xamarinsharp.com/2017/05/20/xamarin-forms-listview-height-change-dynamically-using-mvvm-and-also-solve-empty-space-issue/) - Xamarin Forms: ListView Height Change Dynamically, using MVVM and also, Solve Empty Space issue
 ### Navigation Bar
 * [Navigation Bar with Shadow [Xamarin.Forms]](https://xamgirl.com/navigation-bar-with-shadow-in-xamarin-forms/) - Navigation Bar with Shadow in Xamarin Forms
+### Picker
+* [Adjusting font size of Xamarin’s Picker](https://xamarinexplorer.com/2017/09/30/font-size-picker/)
 ### Switch
 * [Custom Switch Button [Xamarin.Forms]](https://xamarinskills.blogspot.com/2018/01/xamarinforms-custom-switch-button.html) 
 * [Custom TextOn, TextOff for Switch [Xamarin.Forms]](https://forums.xamarin.com/discussion/30526/custom-texton-textoff-for-switch-possible-to-override-or-support-on-roadmap)
