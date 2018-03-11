@@ -58,6 +58,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [ListView Height Change Dynamically [Xamarin.Forms]](https://xamarinsharp.com/2017/05/20/xamarin-forms-listview-height-change-dynamically-using-mvvm-and-also-solve-empty-space-issue/) - Xamarin Forms: ListView Height Change Dynamically, using MVVM and also, Solve Empty Space issue
 ### Navigation Bar
 * [Navigation Bar with Shadow [Xamarin.Forms]](https://xamgirl.com/navigation-bar-with-shadow-in-xamarin-forms/) - Navigation Bar with Shadow in Xamarin Forms
+* [Adding Badge to ToolbarItem [Xamarin.Forms]](https://www.xamboy.com/2018/03/08/adding-badge-to-toolbaritem-in-xamarin-forms/)
 ### Picker
 * [Adjusting font size of Xamarin’s Picker](https://xamarinexplorer.com/2017/09/30/font-size-picker/)
 ### Switch
