@@ -57,8 +57,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Interacting With A ListView [Xamarin.Forms]](https://lalorosas.com/blog/interacting-with-a-listview-in-xamarin-forms) - Pull to refresh, context actions, and taps for Android and iOS
 * [ListView Height Change Dynamically [Xamarin.Forms]](https://xamarinsharp.com/2017/05/20/xamarin-forms-listview-height-change-dynamically-using-mvvm-and-also-solve-empty-space-issue/) - Xamarin Forms: ListView Height Change Dynamically, using MVVM and also, Solve Empty Space issue
 ### Navigation Bar
-* [Navigation Bar with Shadow [Xamarin.Forms]](https://xamgirl.com/navigation-bar-with-shadow-in-xamarin-forms/) - Navigation Bar with Shadow in Xamarin Forms
 * [Adding Badge to ToolbarItem [Xamarin.Forms]](https://www.xamboy.com/2018/03/08/adding-badge-to-toolbaritem-in-xamarin-forms/)
+* [Navigation Bar with Shadow [Xamarin.Forms]](https://xamgirl.com/navigation-bar-with-shadow-in-xamarin-forms/) - Navigation Bar with Shadow in Xamarin Forms
+* [Toolbar with items [Xamarin.Forms]](https://xamarinhelp.com/xamarin-forms-toolbar/)
 ### Picker
 * [Adjusting font size of Xamarin’s Picker](https://xamarinexplorer.com/2017/09/30/font-size-picker/)
 ### Switch
