@@ -18,6 +18,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
   * [Navigation Bar](#navigation-bar)
   * [Picker](#picker)
   * [Switch](#switch)
+  * [TabbedPage](#tabbedpage)
 * [Data Access](#data-access)
 * [Media](#media)
 * [Multilingualism](#multilingualism)
@@ -65,6 +66,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### Switch
 * [Custom Switch Button [Xamarin.Forms]](https://xamarinskills.blogspot.com/2018/01/xamarinforms-custom-switch-button.html) 
 * [Custom TextOn, TextOff for Switch [Xamarin.Forms]](https://forums.xamarin.com/discussion/30526/custom-texton-textoff-for-switch-possible-to-override-or-support-on-roadmap)
+### TabbedPage
+* [Tab badge [Xamarin.Forms] ](https://github.com/xabre/xamarin-forms-tab-badge?fbclid=IwAR2kpKeqwJMe_qj0JEw3HINjhBrNGHCwWq-V9HiFtNQf336V6sho0Mg9Ids) - Xamarin Forms bindable tab badges for iOS, Android, UWP, MacOS and WPF. The plugin creates a custom renderer (for each platform) and a custom attached property for adding tab bar badges which can be bound in XF shared code.
 
 ## Data Access
 * [Sqlcipher with sqlite-net-plc [Xamarin.Forms]](https://github.com/supratimpatra/Sqlcipher_sqlite-net-pcl_Xamarin.Forms) - A demo application to integrate sqlcipher with sqlite-net-pcl library in Xamarin.Forms
