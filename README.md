@@ -35,8 +35,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [EntryCustomReturnPlugin [Xamarin.Forms]](https://github.com/brminnick/EntryCustomReturnPlugin) - Xamarin.Forms Plugin to customize the Xamarin.Forms.Entry Keyboard Return Button 
 * [FoldingCell](https://github.com/Ramotion/folding-cell-android) - FoldingCell is a material design expanding content cell inspired by folding paper material made by @Ramotion 
 * [Popup Page Plugin [Xamarin.Forms]](https://github.com/rotorgames/Rg.Plugins.Popup) - Rg.Plugins.Popup is a cross platform plugin for Xamarin.Forms which allows to open Xamarin.Forms pages as a popup that can be shared across iOS, Android and UWP. Also the plugin allows to use very simple and flexible animations for showing popup pages
+* [Push Notification Plugin](https://github.com/CrossGeeks/PushNotificationPlugin) - Simple cross platform plugin for handling push notifications. Uses FCM for Android and APS for iOS
 * [SlideOverKit [Xamarin.Forms]](http://www.xam-consulting.com/slideoverkit-xamarin-forms/) - SlideOverKit is a (Free and OpenSource) component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms
-* [Toasts.Forms.Plugin](https://github.com/EgorBo/Toasts.Forms.Plugin) - A simple way of showing notifications inside your Xamarin or Windows application.
+* [Toasts Notification Plugin](https://github.com/EgorBo/Toasts.Forms.Plugin) - A simple way of showing notifications inside your Xamarin or Windows application.
 * [xfgloss [Xamarin.Forms]](https://github.com/tbaggett/xfgloss) - XFGloss adds new properties to the Xamarin.Forms standard UI components on the Android and iOS platforms. It uses attached properties and enhanced platform-specific renderers to work its magic.
 ## Controls
 ### Carousel View
