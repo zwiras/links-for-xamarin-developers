@@ -20,6 +20,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
   * [Switch](#switch)
   * [TabbedPage](#tabbedpage)
 * [Data Access](#data-access)
+* [Layout](#layout)
 * [Media](#media)
 * [Multilingualism](#multilingualism)
 * [Productivity](#productivity)
@@ -76,6 +77,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Data Access
 * [Sqlcipher with sqlite-net-plc [Xamarin.Forms]](https://github.com/supratimpatra/Sqlcipher_sqlite-net-pcl_Xamarin.Forms) - A demo application to integrate sqlcipher with sqlite-net-pcl library in Xamarin.Forms
+
+## Layout
+* [Themes [Xamarin.Forms]](https://medium.com/@milan.gohil/adding-themes-to-your-xamarin-forms-app-3da3032cc3a1?fbclid=IwAR0RdAaP7P8zM_8wSyfuRDNZJo6Mq_sMYqdQF7ZJdDrSiLy0kgA0aQ2MwwE) - How adding themes to Xamarin.Forms app
 
 ## Media
 * [Select images from gallery](https://xamgirl.com/select-multiple-images-from-gallery-in-xamarin-forms/) - Select Multiple Images From Gallery in Xamarin Forms
