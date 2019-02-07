@@ -59,7 +59,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Image Entry [Xamarin.Forms]](https://xamgirl.com/image-entry-in-xamarin-forms/) - Image Entry in Xamarin Forms
 * [Move focus on next control [Xamarin.Forms]](http://www.fabiocozzolino.eu/move-focus-next-control-xamarin-forms/)
 ### ListView
-* [Expanded ListView [Xamarin.Forms]](https://xamarinexplorer.com/2018/02/17/accordion-listview-in-xamarin-forms/) 
+* [Expanded ListView [Xamarin.Forms]](https://xamarinexplorer.com/2018/02/17/accordion-listview-in-xamarin-forms/)
+* [Fixing ListView Offset on Pull to Refresh in Xamarin iOS [Xamarin.Forms]](https://www.pujolsluis.com/fixing-listview-offset-on-pull-to-refresh-in-xamarin-ios/)
 * [Interacting With A ListView [Xamarin.Forms]](https://lalorosas.com/blog/interacting-with-a-listview-in-xamarin-forms) - Pull to refresh, context actions, and taps for Android and iOS
 * [ListView Height Change Dynamically [Xamarin.Forms]](https://xamarinsharp.com/2017/05/20/xamarin-forms-listview-height-change-dynamically-using-mvvm-and-also-solve-empty-space-issue/) - Xamarin Forms: ListView Height Change Dynamically, using MVVM and also, Solve Empty Space issue
 ### Navigation Bar
