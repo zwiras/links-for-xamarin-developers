@@ -77,6 +77,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Tab badge [Xamarin.Forms]](https://github.com/xabre/xamarin-forms-tab-badge?fbclid=IwAR2kpKeqwJMe_qj0JEw3HINjhBrNGHCwWq-V9HiFtNQf336V6sho0Mg9Ids) - Xamarin Forms bindable tab badges for iOS, Android, UWP, MacOS and WPF. The plugin creates a custom renderer (for each platform) and a custom attached property for adding tab bar badges which can be bound in XF shared code.
 
 ## Data Access
+* [Secure Storage Plugin](https://github.com/sameerkapps/SecureStorage) - The plugin can be used to Securely store sensitive data strings such as password, session token, credit card number etc. This plugin securely stores the strings across sessions on iOS, Android, UWP, Mac and Tizen apps
 * [Sqlcipher with sqlite-net-plc [Xamarin.Forms]](https://github.com/supratimpatra/Sqlcipher_sqlite-net-pcl_Xamarin.Forms) - A demo application to integrate sqlcipher with sqlite-net-pcl library in Xamarin.Forms
 
 ## Layout
